@@ -19,7 +19,8 @@ members = [
     "ebpf/aya-ebpf-bindings",
     "ebpf/aya-log-ebpf",
     "test/integration-ebpf",
-]
+    "ferros-ebpf",
+    ]
 
 resolver = "2"
 
